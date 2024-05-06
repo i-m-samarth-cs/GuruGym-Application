@@ -1,0 +1,97 @@
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\bin\Debug\GuruGym.exe.config
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.exe
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.xml
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.pdb
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\bin\Debug\GuruGym.exe
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\bin\Debug\GuruGym.pdb
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\bin\Debug\GuruGym.xml
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.Dashboard.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.Resources.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ShowAllUsers.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.AddUsers.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.UserManagement.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.vbproj.GenerateResource.Cache
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ExpiredInactive.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.PlanManagement.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeleteUsers.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.AddPlan.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ShowAllPlan.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeletePlan.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.CollectFee.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeleteFee.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.FeeHistory.resources
+C:\Users\arutwar\Desktop\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.FeeManagement.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\bin\Debug\GuruGym.exe.config
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.exe
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.xml
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.pdb
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\bin\Debug\GuruGym.exe
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\bin\Debug\GuruGym.pdb
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\bin\Debug\GuruGym.xml
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.Dashboard.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ExpiredInactive.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.CollectFee.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeleteFee.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.FeeHistory.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.FeeManagement.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.Resources.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.AddPlan.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeletePlan.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.PlanManagement.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ShowAllPlan.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeleteUsers.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ShowAllUsers.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.AddUsers.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.UserManagement.resources
+D:\GPD\_Study\VB.Net\projects\GuruGym\GuruGym\obj\x86\Debug\GuruGym.vbproj.GenerateResource.Cache
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\bin\Debug\GuruGym.exe.config
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\bin\Debug\GuruGym.exe
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\bin\Debug\GuruGym.pdb
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\bin\Debug\GuruGym.xml
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.vbproj.AssemblyReference.cache
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.Dashboard.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ExpiredInactive.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.CollectFee.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeleteFee.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.FeeHistory.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.FeeManagement.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.Resources.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.AddPlan.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeletePlan.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.PlanManagement.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ShowAllPlan.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeleteUsers.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ShowAllUsers.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.AddUsers.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.UserManagement.resources
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.vbproj.GenerateResource.cache
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.vbproj.CoreCompileInputs.cache
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.exe
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.xml
+C:\Users\gpd\Desktop\GuruGym\GuruGym\GuruGym\obj\x86\Debug\GuruGym.pdb
+D:\Semester 4\GuruGym\GuruGym\bin\Debug\GuruGym.exe.config
+D:\Semester 4\GuruGym\GuruGym\bin\Debug\GuruGym.exe
+D:\Semester 4\GuruGym\GuruGym\bin\Debug\GuruGym.pdb
+D:\Semester 4\GuruGym\GuruGym\bin\Debug\GuruGym.xml
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.vbproj.AssemblyReference.cache
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.vbproj.SuggestedBindingRedirects.cache
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.Dashboard.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ExpiredInactive.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.CollectFee.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeleteFee.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.FeeHistory.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.FeeManagement.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.Resources.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.AddPlan.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeletePlan.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.PlanManagement.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ShowAllPlan.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.EditDeleteUsers.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.ShowAllUsers.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.AddUsers.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.UserManagement.resources
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.vbproj.GenerateResource.cache
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.vbproj.CoreCompileInputs.cache
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.exe
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.xml
+D:\Semester 4\GuruGym\GuruGym\obj\x86\Debug\GuruGym.pdb

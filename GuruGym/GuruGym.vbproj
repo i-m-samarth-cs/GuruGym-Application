@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7DD9611C-F69F-4677-9F0E-088EA4F144C7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>GuruGym.My.MyApplication</StartupObject>
+    <RootNamespace>GuruGym</RootNamespace>
+    <AssemblyName>GuruGym</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GuruGym.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>GuruGym.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Constants\Constants.vb" />
+    <Compile Include="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.vb">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBConnection\DBConnFeeCollection.vb" />
+    <Compile Include="DBConnection\DBConnPlan.vb" />
+    <Compile Include="DBConnection\DBConnUser.vb" />
+    <Compile Include="expiredInactive\ExpiredInactive.Designer.vb">
+      <DependentUpon>ExpiredInactive.vb</DependentUpon>
+    </Compile>
+    <Compile Include="expiredInactive\ExpiredInactive.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeeManagement\CollectFee.Designer.vb">
+      <DependentUpon>CollectFee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FeeManagement\CollectFee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeeManagement\EditDeleteFee.Designer.vb">
+      <DependentUpon>EditDeleteFee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FeeManagement\EditDeleteFee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeeManagement\FeeHistory.Designer.vb">
+      <DependentUpon>FeeHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FeeManagement\FeeHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeeManagement\FeeManagement.Designer.vb">
+      <DependentUpon>FeeManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FeeManagement\FeeManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelperClasses\Validation.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="planManagement\AddPlan.Designer.vb">
+      <DependentUpon>AddPlan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="planManagement\AddPlan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="planManagement\EditDeletePlan.Designer.vb">
+      <DependentUpon>EditDeletePlan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="planManagement\EditDeletePlan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="planManagement\PlanManagement.Designer.vb">
+      <DependentUpon>PlanManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="planManagement\PlanManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="planManagement\ShowAllPlan.Designer.vb">
+      <DependentUpon>ShowAllPlan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="planManagement\ShowAllPlan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userManagement\UserManagement.Designer.vb">
+      <DependentUpon>UserManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userManagement\UserManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userManagement\EditDeleteUsers.Designer.vb">
+      <DependentUpon>EditDeleteUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userManagement\EditDeleteUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userManagement\ShowAllUsers.Designer.vb">
+      <DependentUpon>ShowAllUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userManagement\ShowAllUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userManagement\AddUsers.Designer.vb">
+      <DependentUpon>AddUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userManagement\AddUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="expiredInactive\ExpiredInactive.resx">
+      <DependentUpon>ExpiredInactive.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeeManagement\CollectFee.resx">
+      <DependentUpon>CollectFee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeeManagement\EditDeleteFee.resx">
+      <DependentUpon>EditDeleteFee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeeManagement\FeeHistory.resx">
+      <DependentUpon>FeeHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeeManagement\FeeManagement.resx">
+      <DependentUpon>FeeManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="planManagement\AddPlan.resx">
+      <DependentUpon>AddPlan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="planManagement\EditDeletePlan.resx">
+      <DependentUpon>EditDeletePlan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="planManagement\PlanManagement.resx">
+      <DependentUpon>PlanManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="planManagement\ShowAllPlan.resx">
+      <DependentUpon>ShowAllPlan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userManagement\EditDeleteUsers.resx">
+      <DependentUpon>EditDeleteUsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userManagement\ShowAllUsers.resx">
+      <DependentUpon>ShowAllUsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userManagement\AddUsers.resx">
+      <DependentUpon>AddUsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userManagement\UserManagement.resx">
+      <DependentUpon>UserManagement.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
